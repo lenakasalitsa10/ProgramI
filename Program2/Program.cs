@@ -1,6 +1,6 @@
 ﻿namespace ListContact          //помещаем класс в пространство имён
 {
-    abstract class Program     //создаём абстрактный класс Program
+    class Program     //создаём абстрактный класс Program
     {
         static void Main(string[] args)     //начало программы
         {
