@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
 namespace Program3;    //помещаем класс в пространство имён
 
 class Program        //главный класс
